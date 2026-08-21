@@ -1,0 +1,6 @@
+{
+  "name": "GraphWard AI - Continuous Code Remediation Platform",
+  "description": "Autonomous DevSecOps continuous code remediation platform powered by Deep AST Mapping & GraphWard R-CLI Execution Harness.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
